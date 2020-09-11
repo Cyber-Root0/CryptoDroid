@@ -1,0 +1,27 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: ransowhare.apk
+compressionType: false
+doNotCompress:
+- resources.arsc
+- jpg
+- png
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: null
+sdkInfo:
+  minSdkVersion: '15'
+  targetSdkVersion: '28'
+sharedLibrary: false
+sparseResources: false
+unknownFiles:
+  org/apache/http/version.properties: '8'
+  org/apache/http/client/version.properties: '8'
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: 2.4.1
+versionInfo:
+  versionCode: '1'
+  versionName: '1.0'

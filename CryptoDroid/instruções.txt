@@ -1,0 +1,6 @@
+Requisitos Para poder Executar o Script:
+
+- ter o java instalado (jdk para desenvolvedores)
+e configurar as variaveis de ambiente do mesmo;
+
+- Estar no Windows (7,8,10)
